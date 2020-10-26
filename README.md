@@ -1,2 +1,0 @@
-# BlinkingBlackCursor
-QA student. 
